@@ -43,6 +43,9 @@
   
 - [**CNN on CIFAR-10: Deep Dive**](https://github.com/Molarbo2004/cnn-cifar10-deep-dive)  
   Обучение, сравнение и визуализация CNN (Baseline, Dropout, BatchNorm). Включает математический разбор свёртки, ReLU, BatchNorm, Dropout и анализ уверенности моделей.
+
+- [**TrafficFlowAI-Analyzer**](https://github.com/Molarbo2004/TrafficFlowAI-Analyzer)  
+  Система анализа дорожного трафика с YOLOv11: детекция, трекинг и классификация транспортных средств (автомобили, грузовики, автобусы) с интеллектуальной фильтрацией ложных срабатываний.
   
 ---
 
