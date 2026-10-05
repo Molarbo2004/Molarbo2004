@@ -15,9 +15,9 @@
 ---
 
 ### 🛠️ Навыки
-- **Языки**: Python, Java
-- **ML**: Линейные модели, перцептроны, SVM, Random Forest, Naive Bayes 
-- **Инструменты**: Jupyter Notebook, Git, GitHub
+- Python, Pandas, NumPy
+- Scikit-learn, FastAPI
+- Docker, Git
 
 ---
 
