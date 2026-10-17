@@ -46,6 +46,9 @@
 
 - [**House Prices: Ridge Regression from Scratch**](https://github.com/Molarbo2004/House-pricing)  
   Предсказание цен на недвижимость (Kaggle). Собственная реализация Ridge-регрессии на NumPy, One-Hot кодирование категориальных признаков и умная обработка пропусков.
-  !!!За основу взят курс machine-learning-zoomcamp!!!
+
+  За основу взят курс machine-learning-zoomcamp
+
+  
 ---
 
