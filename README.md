@@ -43,6 +43,9 @@
 
 - [**TrafficFlowAI-Analyzer**](https://github.com/Molarbo2004/TrafficFlowAI-Analyzer)  
   Система анализа дорожного трафика с YOLOv11: детекция, трекинг и классификация транспортных средств (автомобили, грузовики, автобусы) с интеллектуальной фильтрацией ложных срабатываний.
-  
+
+- [**House Prices: Ridge Regression from Scratch**](https://github.com/Molarbo2004/House-pricing)  
+  Предсказание цен на недвижимость (Kaggle). Собственная реализация Ridge-регрессии на NumPy, One-Hot кодирование категориальных признаков и умная обработка пропусков.
+  !!!За основу взят курс machine-learning-zoomcamp!!!
 ---
 
