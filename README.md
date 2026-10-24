@@ -2,7 +2,7 @@
 <h3 align="center">Студент 4 курса • Стажёр ML / Machine Learning Engineer</h3>
 
 <p align="center">
-  <a href="https://vk.com/Molarbo2004">VK</a> • Ростов Великий • UTC-12:00
+  <a href="https://vk.com/Molarbo2004">VK</a> • Ростов Великий 
 </p>
 
 ---
