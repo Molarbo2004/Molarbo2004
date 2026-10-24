@@ -16,7 +16,7 @@
 
 ### 🛠️ Навыки
 - Языки: Python, SQL (базово)
-- ML/DL: Scikit-learn, TensorFlow, Numpy, Pandas
+- ML/DL: Scikit-learn, TensorFlow, NumPy, Pandas
 - Инструменты: Docker, Git
 
 ---
