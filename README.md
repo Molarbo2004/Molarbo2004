@@ -15,9 +15,10 @@
 ---
 
 ### 🛠️ Навыки
-- Языки: Python, SQL (базово)
-- ML/DL: Scikit-learn, TensorFlow, NumPy, Pandas
-- Инструменты: Docker, Git
+- **Языки:** Python, SQL (базово)
+- **ML/DL:** Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn
+- **MLOps & Backend:** Flask, Docker, Gunicorn, Git, REST API
+- **Математика:** Линейная алгебра, теория вероятностей, оптимизация (градиентный спуск)
 
 ---
 
