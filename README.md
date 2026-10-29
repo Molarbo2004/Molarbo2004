@@ -23,7 +23,7 @@
 
 ### 📂 Проекты
 
-- [**SMS Scam Detector API**](https://github.com/Molarbo2004/sms-scam-detector) 🚀 *(Новый)*
+- [**SMS Scam Detector API**](https://github.com/Molarbo2004/sms-scam-detector) 
   End-to-end ML-сервис для детекции мошеннических СМС. Решил проблему сильного дисбаланса классов (13.4% спама), добившись **Recall 94%** и **PR-AUC 97%**. Реализовал полный цикл MLOps: обучение модели, создание API на Flask, контейнеризация в Docker и деплой в облако (Render). 
   [**Live Demo (API)**](https://sms-scam-detector-jj8y.onrender.com/health)
 
