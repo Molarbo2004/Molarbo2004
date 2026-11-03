@@ -59,6 +59,9 @@
 - [**House Prices: Ridge Regression from Scratch**](https://github.com/Molarbo2004/House-pricing)  
 
   Предсказание цен на недвижимость (Kaggle). Собственная реализация Ridge-регрессии на NumPy, One-Hot кодирование и обработка пропусков. *Проект выполнен в рамках курса ML Zoomcamp.*
+
+- [**Frontend Test Tasks**](https://github.com/Molarbo2004/DOJO-media-Test-Tasks)  
+  Выполнение тестовых заданий по вёрстке. Включает адаптивные лендинги, кастомные слайдеры, SVG-маски для карточек, модальные окна и формы с полной валидацией на чистом JavaScript (проверка ФИО, телефона, Email и согласия на обработку ПД).
   
 ---
 
