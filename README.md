@@ -62,6 +62,10 @@
 
 - [**Frontend Test Tasks**](https://github.com/Molarbo2004/DOJO-media-Test-Tasks)  
   Выполнение тестовых заданий по вёрстке. Включает адаптивные лендинги, кастомные слайдеры, SVG-маски для карточек, модальные окна и формы с полной валидацией на чистом JavaScript (проверка ФИО, телефона, Email и согласия на обработку ПД).
+
+- [**Credit Card Fraud Detection: Comparative ML Analysis**](https://github.com/Molarbo2004/fraud-detection-comparative-analysis) 
+
+  Сравнительный анализ 4 моделей (Logistic Regression, Decision Tree, Random Forest, XGBoost) для детекции мошеннических транзакций. Решил проблему экстремального дисбаланса классов (0.17% фрода), добившись **F1-score 86%** и **PR-AUC 87%** на тесте. Реализовал подбор гиперпараметров по сетке и оптимизацию порога классификации на валидационной выборке.
   
 ---
 
