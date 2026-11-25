@@ -25,7 +25,7 @@
 
 ### 📂 Проекты
 
-- [**Stal-In — классификация дефектов стальных листов**](https://github.com/0-Yar-0/Stal-In)  
+- [**Stal-In — классификация дефектов стальных листов**](https://github.com/Stal-In/-Project-Stal-In-for-the-regional-hackathon-Proektariya-AI-)  
 
   Веб-приложение на FastAPI для автоматической классификации 7 типов дефектов стальных листов по 27 геометрическим признакам (датасет UCI Steel Plates Faults, 1 941 запись). Реализовал полный цикл: обучение XGBoost, сравнение с Random Forest, дашборд с аналитикой, мониторинг качества (accuracy, macro-F1), активное дообучение по подтверждённым меткам контролёра и REST API для предсказаний. **Победитель Регионального хакатона «Проектория ИИ»** (команда из 5 человек). Стек: Python, FastAPI, XGBoost, Scikit-learn, Pandas, Matplotlib, Seaborn, Docker.
 
